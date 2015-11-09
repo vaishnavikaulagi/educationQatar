@@ -4,7 +4,7 @@
 
 This website can be used to share
 
-### Planned website features:
+ information about higher university education opportunities worldwide. ### Planned website features:
 
 * Login using OAuth token or personal email / password
 * Making forum posts
