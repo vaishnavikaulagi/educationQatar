@@ -2,9 +2,9 @@
 
 ### About this website:
 
-This website can be used to share
+This website can be used to share information about higher university education opportunities worldwide.
 
- information about higher university education opportunities worldwide. ### Planned website features:
+### Planned website features:
 
 * Login using OAuth token or personal email / password
 * Making forum posts
